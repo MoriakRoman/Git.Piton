@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 desteny
 
 Life here
@@ -14,6 +15,9 @@ New file
 >>>>>>> dev
 
 git 1
+=======
+git 1. Branch 11111
+>>>>>>> f1
 
 
 git2
