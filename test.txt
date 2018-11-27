@@ -1,6 +1,17 @@
+<<<<<<< HEAD
 desteny
 
 Life here
+=======
+Tree 123
+
+ lisening 123
+My
+
+
+New file
+
+>>>>>>> dev
 
 git 1
 
